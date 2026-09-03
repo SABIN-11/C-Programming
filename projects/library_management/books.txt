@@ -1,0 +1,25 @@
+Book 1
+Title:One Piece
+Author:Oda
+Genre:Adventure
+-----------------------------
+Book 2
+Title:Naruto
+Author:Kishimoto
+Genre:Action
+-----------------------------
+Book 3
+Title:Jojo's Bizarre Adventure
+Author:Araki
+Genre:Comedy
+-----------------------------
+Book 4
+Title:Dragon Ball Z
+Author:Toriyama
+Genre:Action
+-----------------------------
+Book 5
+Title:Muna Madan
+Author:Laxmi Prasad Devkota
+Genre:Historical
+-----------------------------

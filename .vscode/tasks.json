@@ -1,0 +1,20 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Compile C Program",
+            "type": "shell",
+            "command": "gcc",
+            "args": [
+                "-o", "${fileDirname}/${fileBasenameNoExtension}.exe",
+                "${file}"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": ["$gcc"],
+            "detail": "Compile C code using GCC"
+        }
+    ]
+}

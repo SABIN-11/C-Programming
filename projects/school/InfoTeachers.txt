@@ -1,0 +1,8 @@
+| Name                 | Subject              | Salary               |
++----------------------+----------------------+----------------------+
+| Manu Ramdam          | Nepali               |Rs30000               |
+| Umisara Thapa        | Science              |Rs37000               |
+| Rupa Bahadur         | English              |Rs35000               |
+| Tul Thapa            | Mathematics          |Rs40000               |
+| Jit Aslami           | Optional Maths       |Rs50000               |
++----------------------+----------------------+----------------------+

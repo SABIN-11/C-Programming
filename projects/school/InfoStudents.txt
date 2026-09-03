@@ -1,0 +1,8 @@
+| Name                 | Course               | Marks                |
++----------------------+----------------------+----------------------+
+| Sabin Nepali         | Computer             | 90                   |
+| Jas Tamang           | Science              | 100                  |
+| Romans Rayamajhi     | Hotel Management     | 78                   |
+| Subarna Poudel       | Management           | 50                   |
+| Subash Gurung        | Law                  | 70                   |
++----------------------+----------------------+----------------------+
