@@ -1,30 +1,38 @@
 # C Programming
 
-A collection of my C programming practice, problem-solving exercises, and small projects as I build a strong foundation in programming and computer science.
+A collection of my C programming practice, problem-solving exercises, and small projects. This repository shows my progression from individual C concepts to larger programs.
 
 ## Repository Structure
 
-- `Practice_Problems/` — C programming exercises covering topics such as arrays, strings, pointers, structures, recursion, file handling, algorithms, and other language fundamentals.
-- `projects/` — Larger programs and small projects built to apply C concepts in more complete applications.
+- `Practice_Problems/` — exercises and experiments while learning C. These are kept as a record of practice rather than presented as finished projects.
+- `projects/` — larger programs built by combining multiple C concepts.
+
+## Projects
+
+- `Notes_Management_System/` — command-line notes manager with file storage, categories, priorities, deadlines, simple encryption, and Windows notifications.
+- `games/` — small console games including Hangman, Tic-Tac-Toe, Quiz, Number Guessing, Rock Paper Scissors, and dice simulation.
+- `library_management/` — a file-based library management program.
+- `school/` — a school information management program using files for stored information.
+- `travel_agency/` — a travel agency management program.
+- `automated_letter/` — a program for generating letters from stored text.
+- `alarm/` — a simple alarm clock program.
+- `to-do_list/` — a command-line to-do list program.
 
 ## Topics Covered
 
-- C syntax and fundamentals
-- Variables, data types, operators, and control flow
+- C fundamentals and control flow
 - Functions
 - Arrays and strings
-- Pointers and memory
-- Structures and user-defined types
+- Pointers and dynamic memory
+- Structures
 - Recursion
 - File handling
+- Searching and sorting
 - Preprocessor directives and header files
-- Searching and sorting algorithms
 - Command-line arguments
+- Basic encryption/decryption
+- Windows API programming
 - Problem solving and algorithmic thinking
-
-## Purpose
-
-This repository documents my progression in C programming rather than presenting only polished projects. The practice problems show how I learn individual concepts, while the projects demonstrate how I combine those concepts into larger programs.
 
 ## Tools
 
@@ -32,6 +40,6 @@ This repository documents my progression in C programming rather than presenting
 - GCC
 - Visual Studio Code
 
-## Notes
+## Note
 
-Some programs are intentionally simple because they represent exercises completed while learning. The repository will continue to evolve as I learn more advanced C programming and data structures.
+The practice section contains programs written while learning and experimenting, so not every file is intended to be polished or production-ready. The larger projects are the main examples of applying these concepts together.
